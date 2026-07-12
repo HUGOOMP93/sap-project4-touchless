@@ -31,5 +31,7 @@ Each hotel sector (Kitchen, Restaurant, Housekeeping, Maintenance) submits suppl
 - Approved requests automatically linked to purchase orders via `OrdenCompraId`
 - Covers all hotel sectors: Kitchen, Restaurant, Housekeeping, Maintenance
 
-### App Screenshot
-![Solicitudes de Insumos](solicitud-insumos-preview.png)# sap-project4-touchless
+## App Screenshots
+![Solicitudes de Insumos](solicitud-insumos-preview.png)
+
+![Proyecto 4](Proyecto4png.png)
